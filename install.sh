@@ -15,6 +15,7 @@ y
 2
 y
 n
+EOF
 )
 
 # 1. 下载安装脚本
@@ -38,3 +39,4 @@ bash install.sh <<< "$INPUTS"
 # echo -e "y\ny\nhttps://xboard.wufeng.me\nfW1oS7JqwZwZbFRnJJc7bC1j\ny\n2\n2\ny\nn" | bash install.sh
 
 echo "安装和配置脚本执行完毕。"
+
